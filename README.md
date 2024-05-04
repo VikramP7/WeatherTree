@@ -47,6 +47,9 @@ The pico's on board clock would keep track of time elapsed since the last frame 
 
 Linear extrapolation was used to create smooth transistions between key frame values.
 
+## Tree Design
+The tree was modeled in Blender 4.0. Simple 3D geometry and the subdivision surface modifier gives it the clean low poly look. The blender models where then brought into Fusion 360 where they were scaled, hollowed, and sliced appropriately for 3D printing. The leaves of the tree were sliced into 8 pieces and alignment pins were added for ease of printing. Printer settings were tuned to provide 5% infill to allow for light diffusion and smaller layer heights for detail. 
+
 
 
 [imgpath]: /img/titlepic.jpeg
