@@ -15,7 +15,7 @@ The trunk and leaves of the tree light up with different colours signaling the t
 
 
 ## Members and Contributions
-- **Vikram Procter** - 3D design for tree, Lead UI, backend, and animation developer
+- **Vikram Procter** - 3D design for tree, wiring design, lead UI, backend, and animation developer
 
 - **Hammad Shakeel** - 3D design for orangutan, and assembly
 
