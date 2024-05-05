@@ -1,5 +1,5 @@
 # Weather Tree
-A First Year Eng Group Project Utilizing APIs to Make Art
+A First Year Eng Group Project Utilizing APIs to Make Art  
 Feburary 2024
 
 ![Image of Weather Tree][imgpath]
